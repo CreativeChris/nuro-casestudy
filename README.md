@@ -1,6 +1,6 @@
 # NURO case study
 
-of http://www.seaclouds-project.eu/
+NURO case study is designed for validation of http://www.seaclouds-project.eu/
 
 This is a clone of the SeaClouds - NURO CaseStudy SVN repository
 
